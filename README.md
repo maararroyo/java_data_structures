@@ -82,4 +82,4 @@ Each folder represents a self-contained exercise. Below is a brief description o
 
 ---
 
-This repository is provided for educational purposes and personal growth. Free to use and share.
+This repository is provided for educational purposes and personal growth. Feel free to use and share.
